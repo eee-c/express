@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var express = require('express')
-  , connect = require('connect')
+var express = require('express-unstable')
+  , connect = require('connect-unstable')
   , assert = require('assert')
   , should = require('should')
   , Route = express.Route;
