@@ -26,7 +26,7 @@
     "github-flavored-markdown": "*"
   },
   "keywords": ["express", "framework", "sinatra", "web", "rest", "restful", "router"],
-  "repository": "git://github.com/visionmedia/express",
+  "repository": "git@github.com:eee-c/express.git",
   "main": "index",
   "bin": { "express": "./bin/express" },
   "scripts": {
